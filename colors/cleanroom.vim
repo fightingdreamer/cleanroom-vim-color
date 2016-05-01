@@ -45,7 +45,7 @@ hi Search                       guibg=#fcfcaa  gui=none
 hi IncSearch                    guibg=#ffff33  gui=bold
 hi MatchParen                   guibg=#ccddff  gui=none
 hi Visual                       guibg=#ddeeff
-hi Error         guifg=#bb3355  guibg=white    gui=none
+hi Error         guifg=#bb3355  guibg=#f8f8f8  gui=none
 hi SpellBad      guisp=#ff7777
 hi SpellCap      guisp=#ffaaaa
 hi SpellLocal    guisp=#ffaaaa
