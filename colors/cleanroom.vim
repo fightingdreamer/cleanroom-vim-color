@@ -107,3 +107,6 @@ hi link vimEnvvar          Constant
 hi link vimHiattrib        Constant
 hi link vimFbBgAttrib      Constant
 
+" Unite
+hi uniteMarkedLine           gui=bold
+hi uniteSource__GrepPattern  gui=bold
