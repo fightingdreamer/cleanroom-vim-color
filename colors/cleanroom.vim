@@ -20,6 +20,7 @@ hi FoldColumn    guifg=#aaaaaa  guibg=#f8f8f8  gui=bold
 hi SignColumn    guifg=#666688  guibg=#f8f8f8
 hi LineNr        guifg=#bebebe  guibg=#f8f8f8
 hi CursorLine                   guibg=#f1faff
+hi CursorLineNr  guifg=#555555  guibg=#f1faff  gui=none
 hi ColorColumn                  guibg=#fafafa
 hi StatusLine    guifg=#555555  guibg=#e3e3e3  gui=none
 hi StatusLineNC  guifg=#888888  guibg=#eeeeee  gui=none
